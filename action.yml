@@ -1,6 +1,10 @@
 # action.yml
 name: 'Greeting to the World'
 description: 'Greet someone and record the time'
+author: 'Asdrubal Gonzalez Penton'
+branding:
+  icon: 'book-open'
+  color: 'yellow'
 inputs:
   who-to-greet:  # id of input
     description: 'Who to greet'
